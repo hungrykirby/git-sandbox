@@ -1,15 +1,18 @@
 bokudoraemon
 conflict
 conflict
+conflict
 
 
 
 
 
 
+conflict
 
 
 
+<<<<<<< HEAD
 
 buhhyu
 
@@ -17,4 +20,6 @@ buhhyu
 
 conflict
 
+=======
+>>>>>>> 641ef482c08009bef62e81f770482d81f5b36889
 conflict
